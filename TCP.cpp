@@ -202,6 +202,12 @@ namespace Socket
         
         fp.close();
     }
+
+    void TCP::fuckyou(string fuck)
+    {
+        cout<< "fuck you " << endl;
+    }
+
 }
 
 #endif
