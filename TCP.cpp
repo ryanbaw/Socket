@@ -202,6 +202,9 @@ namespace Socket
         
         fp.close();
     }
+	
+	void xxx:test(){
+	}
 }
 
 #endif
